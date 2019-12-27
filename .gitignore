@@ -1,0 +1,8 @@
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
+
+node_modules*
+*sublime*
+NOTES*
